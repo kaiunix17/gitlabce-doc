@@ -58,7 +58,8 @@ Nusxalangan jildni arxivlash:
 tar -czf /home/user/backup/project_backup.tar.gz /home/user/backup/project.git
 ```
 
-> Bu usul faqat kod va commit tarixini saqlaydi. Issues, merge requests yoki wikilarni backup qilish uchun GitLabga kiramiz va Export Project functiondan foydalanamiz (Settings > General > Export project). 
+> Bu usul faqat kod va commit tarixini saqlaydi. Issues, merge requests yoki wikilarni backup qilish uchun GitLabga kiramiz va 
+> Export Project functiondan foydalanamiz (Settings > General > Export project). 
 
 
 ## 2. Bitta Repositoryni Qayta Tiklash (Restore)

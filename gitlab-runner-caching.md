@@ -1,6 +1,7 @@
 # Gitlab runner caching
 
-Kesh - `job` yuklab oladigan va saqlaydigan bir yoki bir nechta filelar tuplami. Agar kesh qilib fileni yuklab olsa keyingi safar uni yana qayta yuklab olmaydi. Ishni tezlashtirish uchun kerak
+Kesh - `job` yuklab oladigan va saqlaydigan bir yoki bir nechta filelar tuplami. Agar kesh qilib fileni yuklab olsa keyingi safar uni yana qayta yuklab olmaydi. 
+Ishni tezlashtirish uchun kerak
 Kesh har bir job uchun alohida yaratiladi. Kesh agar yozilgan bulsa keyingi pipelineda ishlatish mumkin agar key tugri kelsa.
 
 ```yaml
